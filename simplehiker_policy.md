@@ -1,5 +1,5 @@
 PRIVACY POLICY FOR MOBILE APPLICATION "Simple Hiker Log"
-Last updated: November 04, 2022
+Last updated: April 24, 2022
 
 This privacy policy governs your use of the software application “Simple Hiker Log” (later referred as the/this “Application”) for Android™ mobile devices that was created by Jure Pivk.
 
@@ -45,7 +45,7 @@ In order to ensure an optimal security, you shall regularly install any Applicat
 We also advise you to regularly check for any Android OS update(s) that could be available and to enable automatic updates.
 
 Changes
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy at https://github.com/jure516/policy/simplehiker_policy.md and update the "Last updated" date at the top of this Privacy Policy.
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy at https://github.com/jure516/policy/blob/main/simplehiker_policy.md and update the "Last updated" date at the top of this Privacy Policy.
 
 Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches (e.g., a zero-day attack targeting mobile Operating System – OS).
 
